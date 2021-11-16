@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test Website"
+title                    : "Test Personal Website"
 title_separator          : "-"
 name                     : &name "Jie Chen"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jie42"
   google_plus      :
   keybase          :
   instagram        :
