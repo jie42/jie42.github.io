@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test Personal Website"
+title                    : "Tardis No.42"
 title_separator          : "-"
 name                     : &name "Jie Chen"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jie Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "It's ok to just wander through life finding interesting things until you die."
   location         : "Princeton, NJ"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jie42"
+  github           : #"jie42"
   google_plus      :
   keybase          :
   instagram        :
