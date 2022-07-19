@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test Personal Website"
+title                    : "Tardis No.42"
 title_separator          : "-"
 name                     : &name "Jie Chen"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jie42"
+  github           : #"jie42"
   google_plus      :
   keybase          :
   instagram        :
